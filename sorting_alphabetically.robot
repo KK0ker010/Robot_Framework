@@ -5,7 +5,7 @@ Resource    login_keyword.robot
 
 *** Test Cases ***
     # A-Z rendezés
-    # Z-Arendezés
+    # Z-A rendezés
     # Ár szerint növekvő
     # Ár szerint csökkenő
 

@@ -8,4 +8,4 @@ Successful login
     Input Text    id:user-name    standard_user
     Input Password    id:password     secret_sauce
     Click Button    id:login-button
-    Sleep   1s
+    Sleep   2s
